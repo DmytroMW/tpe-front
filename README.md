@@ -3,9 +3,9 @@
 IMPORTANT: firstly run the tpe-back app
 
 Steps for front startup:
-1) npm i
-2) npm run dev
+1) ```npm i```
+2) ```npm run dev```
 
-for running tests - npm run test 
+For tests run - ```npm run test```
 
 Mocked accountId - 12345
