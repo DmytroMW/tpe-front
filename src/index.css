@@ -1,0 +1,38 @@
+#user-icon {
+    min-height: 20px;
+    position: relative;
+    left: 0.2rem;
+    bottom: 0.1rem;
+}
+
+#accordion-logout {
+    cursor: pointer;
+}
+
+#accordion-logout:hover {
+    background-color: #f2f7fc;
+}
+
+.vh-20 {
+    height: 20vh;
+}
+
+.vh-30 {
+    height: 30vh;
+}
+
+.vh-90 {
+    height: 90vh;
+}
+
+.app-logo {
+    width: 50%;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+#is-paid-flag-padding {
+  padding-left: calc(var(--bs-gutter-x)* 0.5);
+}
